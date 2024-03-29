@@ -14,7 +14,7 @@ Support: [AFdian](https://afdian.net/a/LIGH_Y) | [WeChat Pay](https://img2.imgtp
 ## SFGuide   
 Staff: LIGH_Y, 2024  
 Desc: An ABC Slimefun guide which becomes you to pro from noob. 
-[GitHub](https://github.com/1368139692/SFGuide) | MineBBS
+[GitHub](https://github.com/1368139692/SFGuide) | [MineBBS](https://www.minebbs.com/threads/10.23361/)
 
 # Projects
 
