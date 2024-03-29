@@ -11,14 +11,14 @@ Support: [AFdian](https://afdian.net/a/LIGH_Y) | [WeChat Pay](https://img2.imgtp
 ---
 # Acticles
 
-###### SFGuide 
+#### SFGuide 
 Staff: LIGH_Y, 2024
 Desc: An ABC Slimefun guide which becomes you to pro from noob.
 [GitHub](https://github.com/1368139692/SlimeGuide) | [MineBBS](https://www.minebbs.com/threads/10.23361/)
 
 # Projects
 
-###### AngleTech
+#### AngleTech
 Staff: LIGH_Y, 2023
 Desc: A 200+ items Slimefun addon bases on SlimeCustomer. It can improve your Slimefun server's amusement a lot.
 [GitHub](https://github.com/1368139692/AngleTech) | [MineBBS](https://www.minebbs.com/threads/angletech-200.24598/)
