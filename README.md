@@ -1,6 +1,6 @@
 # Profile
 An 18 y.o. student in China  
-My MBTI personality is [INTJ](https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/intj-a/m/kkbai1x1m)  
+My MBTI personality is [ISTP](https://www.16personalities.com/ch/结果/istp-a/m/dh2yw5zd5)  
 I'm Creating plugins, acticles and videos  
 You can call me 'Lighy' or '昭(zhāo)'  
 
