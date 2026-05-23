@@ -2,7 +2,7 @@
 An 18 y.o. student in China  
 My MBTI personality is [ISTP](https://www.16personalities.com/ch/结果/istp-a/m/dh2yw5zd5)  
 I'm Creating plugins, acticles and videos  
-You can call me 'Lighy' or '昭(zhāo)'  
+You can call me 'Lighy'
 
 Contact: [Email](1368139692@qq.com) | [QQ](https://qm.qq.com/q/ECP60yw5r4) | [Group](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kh1DuVgse-NpJxnVfroy3AkgzI_zR2yd&authKey=jovTmi9Va3OwvxZyQObomhvy3637ppdducos5vHgpJOlpkCeRUlMZ3PwVhEBepgv&noverify=0&group_code=895650188)   
 Links: [GitHub](https://github.com/1368139692) | [Bilibili](https://b23.tv/urw2yXc) | [MineBBS](https://www.minebbs.com/members/ligh_y.80959/)  
